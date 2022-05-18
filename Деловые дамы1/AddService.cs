@@ -35,7 +35,7 @@ namespace Деловые_дамы1
             textBox4.Text = descript;
             textBox5.Text = discount;
             textBox6.Text = img;
-           // com.command($"");
+           // com.command($"Update service Set Title = '{}', Cost ='' Where ID =");
 
         }
 
